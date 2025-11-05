@@ -100,5 +100,6 @@ This project demonstrates how **data visualization and analysis in Power BI** ca
 
 ## 👩‍💻 Author  
 **Akshada Mahadik**  
-📧 [Add your email or LinkedIn profile here]  
-🔗 [GitHub Profile or Portfolio Link]
+📧 [www.linkedin.com/in/akshada
+mahadik-84482338a]  
+🔗 [github.com/akshadamahadik]
