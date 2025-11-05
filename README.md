@@ -87,9 +87,10 @@ To analyze and visualize Blinkit’s grocery sales dataset to identify:
 | Avg Visibility | Average visibility across outlets |
 
 ---
-
+  
 ## 🌐 Live Dashboard  
-[View Live Dashboard](https://app.powerbi.com/viewr=eyJrIjoiN2UxNGEzYmYtM2I0OC00NzljLWIzOWEtNjZjMDFlYjEzZTNmIiwidCI6IjMwZDhiNjVlLWUyOWEtNDY3My1iZjllLTZhOWM3YjBmNThmNSJ9).
+
+👉 [**Click Here for Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiN2UxNGEzYmYtM2I0OC00NzljLWIzOWEtNjZjMDFlYjEzZTNmIiwidCI6IjMwZDhiNjVlLWUyOWEtNDY3My1iZjllLTZhOWM3YjBmNThmNSJ9)  
 
 ---
 
