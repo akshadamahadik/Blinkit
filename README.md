@@ -89,9 +89,7 @@ To analyze and visualize Blinkit’s grocery sales dataset to identify:
 ---
 
 ## 🌐 Live Dashboard  
-If published on Power BI Service or Streamlit, you can add your live link below 👇  
-
-[![View Live Dashboard](https://app.powerbi.com/viewr=eyJrIjoiN2UxNGEzYmYtM2I0OC00NzljLWIzOWEtNjZjMDFlYjEzZTNmIiwidCI6IjMwZDhiNjVlLWUyOWEtNDY3My1iZjllLTZhOWM3YjBmNThmNSJ9).
+[View Live Dashboard](https://app.powerbi.com/viewr=eyJrIjoiN2UxNGEzYmYtM2I0OC00NzljLWIzOWEtNjZjMDFlYjEzZTNmIiwidCI6IjMwZDhiNjVlLWUyOWEtNDY3My1iZjllLTZhOWM3YjBmNThmNSJ9).
 
 ---
 
