@@ -1,8 +1,7 @@
 # 🛒 Blinkit Grocery Sales Analysis Dashboard  
 
-![Dashboard Preview] (<img width="1429" height="745" alt="dashboard" src="https://github.com/user-attachments/assets/b720e609-9e76-4a76-ba83-d978f1a00bdd" />
-)
-*(Add your dashboard screenshot here — name it `dashboard.png`)*  
+![Dashboard Preview] (<img width="1429" height="745" alt="dashboard" src="https://github.com/user-attachments/assets/b720e609-9e76-4a76-ba83-d978f1a00bdd" />)
+
 
 ---
 
